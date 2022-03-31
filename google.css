@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+body{
+    background-color: #d5cea6;
+    font-family:'Roboto', sans-serif; 
+    color: white; 
+    margin: 0;
+}
+header{
+    padding: 10px;
+    display: flex;
+    justify-content: flex-end;
+    word-spacing: normal;
+}
+a{
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+}
+input{
+    border-radius: 30px solid white;
+    background-color: black;
+    width: 400px;
+    padding:5px;
+    color: white;
+    margin: 10px 475px 10px 475px;
+}
+.gmail{
+   padding: 10px;
+}
+#google{
+    display: block;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+.Carol{
+    text-decoration: none;
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+    padding: 5px;
+}
+.koko
+{
+    text-align: center;
+}
+.final{
+    display: block ;
+    position: relative;
+    top: 125px;
+    bottom: 250px;
+    right: 250px;
+    left: 250px;
+}
